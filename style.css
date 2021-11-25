@@ -6,4 +6,28 @@ ul {
 }
 .header {
 	background-color: #0020F4;
+	padding-bottom: 269.56px;
+	padding-top: 27px;
+}
+.navbar {
+	color: #FFFFFF;
+}
+. logo {
+	margin-left: 240px;
+}
+. main-image {
+	width: 1195px;
+	margin-left: 362px;
+}
+h3 {
+	color: #171717;
+	margin-left: 362px;
+	margin-bottom: 60px;
+}
+div a {
+	width: 219px;
+	margin-left: 25px;
+}
+div {
+	margin-left: 362px;
 }
